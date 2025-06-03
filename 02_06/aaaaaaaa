@@ -1,0 +1,2 @@
+INSERT INTO Adm (cpf, nome, login, senha, data_cadastro) 
+VALUES ('12345678901', 'lola', 'lola', '1234', '2025-06-03');
