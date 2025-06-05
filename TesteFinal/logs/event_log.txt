@@ -1,0 +1,71 @@
+---- LOGS DE EVENTOS DO SISTEMA ----
+
+[2025-06-05 16:18:38] ID:18 | Ação: Cadastro de novo usuário
+  Alvo: sdaada | CPF: 23424242
+  Executor: lola | Alvo: sdaada (CPF: 23424242)
+----------------------------------------
+[2025-06-05 16:16:58] ID:17 | Ação: Usuário excluiu própria conta
+  Alvo: Paulo | CPF: 1351651
+  Executor: Sistema/Usuário | Alvo: Próprio Usuário
+----------------------------------------
+[2025-06-05 16:16:33] ID:16 | Ação: Usuário atualizou próprios dados
+  Executor: Sistema/Usuário | Alvo: Próprio Usuário
+----------------------------------------
+[2025-06-05 16:16:18] ID:15 | Ação: Usuário atualizou próprios dados
+  Executor: Sistema/Usuário | Alvo: Próprio Usuário
+----------------------------------------
+[2025-06-05 16:14:21] ID:14 | Ação: Usuário excluído por ADM
+  Alvo: palo | CPF: 123456789
+  Executor: lola | Alvo: N/A (Ação do ADM)
+----------------------------------------
+[2025-06-05 16:14:09] ID:13 | Ação: Usuário atualizado por ADM
+  Alvo: palo | CPF: 123456789
+  Executor: lola | Alvo: N/A (Ação do ADM)
+----------------------------------------
+[2025-06-05 16:13:57] ID:12 | Ação: Usuário atualizado por ADM
+  Alvo: palo | CPF: 123456789
+  Executor: lola | Alvo: N/A (Ação do ADM)
+----------------------------------------
+[2025-06-05 16:13:46] ID:11 | Ação: Cadastro de novo usuário
+  Alvo: 1234 | CPF: 123456789
+  Executor: lola | Alvo: N/A
+----------------------------------------
+[2025-06-05 15:38:58] ID:10 | Ação: Usuário atualizado por ADM
+  Alvo: gag | CPF: 1351651
+  Executor: lola | Alvo: N/A (Ação do ADM)
+----------------------------------------
+[2025-06-05 15:19:37] ID:9 | Ação: Usuário atualizado por ADM
+  Alvo: gaga | CPF: 1351651
+  Executor: lola | Alvo: N/A (Ação do ADM)
+----------------------------------------
+[2025-06-05 15:19:25] ID:8 | Ação: Cadastro de novo usuário
+  Alvo: gaga | CPF: 1351651
+  Executor: lola | Alvo: N/A
+----------------------------------------
+[2025-06-04 18:31:27] ID:7 | Ação: Usuário excluiu própria conta
+  Alvo: bana | CPF: 5665635
+  Executor: Sistema/Usuário | Alvo: Próprio Usuário
+----------------------------------------
+[2025-06-04 18:30:42] ID:6 | Ação: Usuário atualizado por ADM
+  Alvo: bana | CPF: 5665635
+  Executor: lucy | Alvo: N/A (Ação do ADM)
+----------------------------------------
+[2025-06-04 18:29:28] ID:5 | Ação: Usuário atualizou próprios dados
+  Executor: Sistema/Usuário | Alvo: Próprio Usuário
+----------------------------------------
+[2025-06-04 18:28:59] ID:4 | Ação: Cadastro de novo usuário
+  Alvo: fdgfd | CPF: 5665635
+  Executor: lucy | Alvo: N/A
+----------------------------------------
+[2025-06-04 18:27:30] ID:3 | Ação: Usuário excluído por ADM
+  Alvo: aaaaaaaa | CPF: 544654
+  Executor: lola | Alvo: N/A (Ação do ADM)
+----------------------------------------
+[2025-06-04 18:27:10] ID:2 | Ação: Usuário atualizado por ADM
+  Alvo: aaaaaaaa | CPF: 544654
+  Executor: lola | Alvo: N/A (Ação do ADM)
+----------------------------------------
+[2025-06-04 18:26:46] ID:1 | Ação: Cadastro de novo usuário
+  Alvo: ghfhgfhgfh | CPF: 544654
+  Executor: lola | Alvo: N/A
+----------------------------------------
