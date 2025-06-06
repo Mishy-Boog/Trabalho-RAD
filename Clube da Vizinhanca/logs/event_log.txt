@@ -1,0 +1,61 @@
+---- LOGS DE EVENTOS DO SISTEMA ----
+
+[2025-06-06 10:15:14] ID:16 | Ação: Usuário excluiu própria conta
+  Alvo: aaaaaaaaaaaaaasa | CPF: 44444444444
+  Executor: Sistema/Usuário | Alvo: Próprio Usuário
+----------------------------------------
+[2025-06-06 10:14:58] ID:15 | Ação: Usuário atualizou próprios dados
+  Executor: Sistema/Usuário | Alvo: Próprio Usuário
+----------------------------------------
+[2025-06-06 10:14:18] ID:14 | Ação: Usuário excluído por ADM
+  Alvo: Paulo Marcos | CPF: 12345678999
+  Executor: lola | Alvo: N/A (Ação do ADM)
+----------------------------------------
+[2025-06-06 10:13:42] ID:13 | Ação: Usuário atualizado por ADM
+  Alvo: aaaaaaaaaaaaaas | CPF: 44444444444
+  Executor: lola | Alvo: N/A (Ação do ADM)
+----------------------------------------
+[2025-06-06 10:13:23] ID:12 | Ação: Auto-cadastro de usuário
+  Executor: Sistema/Usuário | Alvo: Próprio Usuário
+----------------------------------------
+[2025-06-05 19:19:48] ID:11 | Ação: Usuário excluiu própria conta
+  Alvo: paulo marcos | CPF: 12345678921
+  Executor: Sistema/Usuário | Alvo: Próprio Usuário
+----------------------------------------
+[2025-06-05 19:19:30] ID:10 | Ação: Usuário atualizado por ADM
+  Alvo: paulo marcos | CPF: 12345678921
+  Executor: lola | Alvo: N/A (Ação do ADM)
+----------------------------------------
+[2025-06-05 19:19:10] ID:9 | Ação: Auto-cadastro de usuário
+  Executor: Sistema/Usuário | Alvo: Próprio Usuário
+----------------------------------------
+[2025-06-05 19:12:17] ID:8 | Ação: Usuário excluído por ADM
+  Alvo: palosaa | CPF: 12345678902
+  Executor: lola | Alvo: N/A (Ação do ADM)
+----------------------------------------
+[2025-06-05 19:11:54] ID:7 | Ação: Usuário atualizado por ADM
+  Alvo: palosaa | CPF: 12345678902
+  Executor: lola | Alvo: N/A (Ação do ADM)
+----------------------------------------
+[2025-06-05 19:10:37] ID:6 | Ação: Usuário atualizado por ADM
+  Alvo: palosaa | CPF: 12345678902
+  Executor: lola | Alvo: N/A (Ação do ADM)
+----------------------------------------
+[2025-06-05 19:09:46] ID:5 | Ação: Usuário atualizado por ADM
+  Alvo: palosaa | CPF: 12345678902
+  Executor: lola | Alvo: N/A (Ação do ADM)
+----------------------------------------
+[2025-06-05 18:38:09] ID:4 | Ação: Cadastro de novo usuário
+  Alvo: dhjajdjguyg | CPF: 12345678902
+  Executor: lola | Alvo: N/A
+----------------------------------------
+[2025-06-05 18:36:31] ID:3 | Ação: Usuário excluído por ADM
+  Alvo: dsadadasda | CPF: 12345678998
+  Executor: lola | Alvo: N/A (Ação do ADM)
+----------------------------------------
+[2025-06-05 18:34:23] ID:2 | Ação: Auto-cadastro de usuário
+  Executor: Sistema/Usuário | Alvo: Próprio Usuário
+----------------------------------------
+[2025-06-05 18:23:10] ID:1 | Ação: Auto-cadastro de usuário
+  Executor: Sistema/Usuário | Alvo: Próprio Usuário
+----------------------------------------
